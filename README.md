@@ -1,0 +1,1 @@
+CityFinder is a simple Java console application that allows users to search for a city within a predefined list of major cities in the USA. The application prompts the user to enter a city name and checks if the city is in the list, providing feedback on whether the city was found.
